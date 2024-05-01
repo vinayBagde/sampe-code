@@ -4,3 +4,5 @@ let body = document.querySelector("body");
 h1.addEventListener("click", () => {
   body.style.backgroundColor = "yellow";
 });
+
+//javaScript
